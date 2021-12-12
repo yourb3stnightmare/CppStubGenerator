@@ -10,6 +10,8 @@ input/output parameters as well as the return value for the stub functions.
 The generated header also provides a macro to easily initialize the provided 
 global data.
 
+See Test/ExpectedOutput for example generated files.
+
 The Google Mock class generator is an application that is part of cppclean.
 For more information about cppclean, see the README.cppclean file or
 visit http://code.google.com/p/cppclean/
